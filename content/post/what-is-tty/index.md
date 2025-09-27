@@ -4,6 +4,7 @@ categories:
 - Notes
 date: 2025-09-09
 draft: false
+description: "Why? So you can use Ctrl-C, arrow keys, tab completion, and command history."
 slug: what-is-tty
 image: what-is-tty.png
 tags:

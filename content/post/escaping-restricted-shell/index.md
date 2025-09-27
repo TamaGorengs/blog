@@ -1,13 +1,12 @@
 ---
 title: "Escaping Restricted Shell"
-description: 
+description: "How to escape restricted shell. But first what is Restricted Shell ?"
 date: 2025-09-09T22:53:56+08:00
-image: 
+image: restricted-shell.png
 math: 
 license: 
-hidden: false
 comments: true
-draft: true
+draft: false
 ---
 
 
