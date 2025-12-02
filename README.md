@@ -1,4 +1,4 @@
-# 0xYur3i Blog  
+# TamaGorengs Blog  
 
 ![Status](https://img.shields.io/badge/Status-Online-green?style=flat-square&logo=hackaday)  
 ![Pentest](https://img.shields.io/badge/Field-Pentest-red?style=flat-square&logo=linux)  
@@ -33,9 +33,9 @@
 ---
 
 ## 🌐 Connect
-- 🐙 GitHub: [@0xYur3i](https://github.com/0xYur3i)  
-- 🐦 Twitter/X: [@0xYur3i](https://twitter.com/0xYur3i)  
-- 🌍 Blog: [0xYur3i](https://0xYur3i.github.io/blog/)  
+- 🐙 GitHub: [@TamaGorengs](https://github.com/TamaGorengs)  
+- 🐦 Twitter/X: [@TamaGorengs](https://twitter.com/TamaGorengs)  
+- 🌍 Blog: [TamaGorengs](https://TamaGorengs.github.io/blog/)  
 
 ---
 

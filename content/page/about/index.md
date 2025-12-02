@@ -14,7 +14,7 @@ comments: false
 
 # Whoami
 
-I'm **0xYur3i**, a Penetration Tester and Security Consultant based in Malaysia.  
+I'm **TamaGorengs**, a Penetration Tester and Security Consultant based in Malaysia.  
 
 My work revolves around offensive security — with a focus on:
 
@@ -60,8 +60,8 @@ One post. One test. One breakthrough at a time.
 If you're here to learn, I hope this helps.  
 If you're here to build, you’re in the right place.  
 
-— *0xYur3i*  
+— *TamaGorengs*  
 
 ---
 
-For notes you can visit [here](https://0xyur3i.gitbook.io/notes/).  
+For notes you can visit [here](https://TamaGorengs.gitbook.io/notes/).  

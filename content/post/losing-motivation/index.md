@@ -3,7 +3,7 @@ title: "Losing Motivation as a Hacker (and How I'm Fighting Back)"
 description: "When your dream was to do what you are doing now, but when it finally becomes your job, it just feels exhausting."
 date: 2025-09-27T19:00:00+08:00
 draft: false
-author: "0xYur3i"
+author: "TamaGorengs"
 tags: ["motivation", "mindset", "hacker-life", "burnout"]
 categories: ["Mindset"]
 image: losing-motivation.png
@@ -60,4 +60,4 @@ Yes, chase mastery. Yes, push limits. But don’t forget to breathe, enjoy, and 
 We’re not machines, we’re humans on a journey. And that’s what makes hacking beautiful.  
 
 *"Be a ghost, be unnoticed. If they do, it’s because you wanted to."*  
-(0xYur3i)
+(TamaGorengs)
